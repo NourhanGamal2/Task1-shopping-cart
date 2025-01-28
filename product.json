@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Watch1",
+        "image" : "image/1-preview.png",
+        "price": 630
+    },
+    {
+        "id": 2,
+        "name": "Watch2",
+        "image" : "image/a-removebg-preview.png",
+        "price": 290
+    },
+    {
+        "id": 3,
+        "name": "Watch3",
+        "image" : "image/38-removebg-preview.png",
+        "price": 520
+    },
+    {
+        "id": 4,
+        "name": "Watch4",
+        "image" : "image/c37-removebg-preview.png",
+        "price": 400
+    },
+    {
+        "id": 5,
+        "name": "Watch5",
+        "image" : "image/23-removebg-preview.png",
+        "price": 600
+    },
+    {
+        "id": 6,
+        "name": "Watch6",
+        "image" : "image/preview.png",
+        "price": 280
+    },
+    {
+        "id": 7,
+        "name": "Watch7",
+        "image" : "image/65-removebg-preview.png",
+        "price": 200
+    },
+    {
+        "id": 8,
+        "name": "Watch8",
+        "image" : "image/removebg-preview.png",
+        "price": 200
+    },
+    {
+        "id": 9,
+        "name": "Watch9",
+        "image" : "image/18-removebg-preview.png",
+        "price": 220
+    },
+    {
+        "id": 10,
+        "name": "Watch10",
+        "image" : "image/f-removebg-preview.png",
+        "price": 340
+    },
+    {
+        "id": 11,
+        "name": "Watch11",
+        "image" : "image/fe-removebg-preview.png",
+        "price": 250
+    }
+]
